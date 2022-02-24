@@ -17,4 +17,6 @@
     {:else}
         <Auth />
     {/if}
+    <div class="bg-red-500 h-44 w-44"> tailwind test</div>
+    
 </div>
